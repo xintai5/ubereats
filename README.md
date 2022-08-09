@@ -1,5 +1,5 @@
 # Uber-Eats-Scraper
-Python-based data scraper to gather information on Uber Eats restaurants in a given Canadian City
+Python-based data scraper to gather information on Uber Eats restaurants in a given Californian City
 
 
 Enter the name of a city (i.e. Los Angeles), followed by the state abbreiation (CA).
